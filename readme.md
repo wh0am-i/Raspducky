@@ -4,6 +4,10 @@
 
 O Rasp Ducky é um projeto baseado no conceito do Rubber Ducky, uma ferramenta de pentest que simula HID, executando uma programação de um payload. Esta versão utiliza um Raspberry Pi e permite a execução de payloads personalizados para automatizar ações.
 
+## Linguagens utilizadas
+- Shell Script
+- Python
+
 ## Estrutura do Projeto
 
 - **ducky.sh:** O script principal que contém os payloads e a lógica de execução.
